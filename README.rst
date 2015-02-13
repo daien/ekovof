@@ -27,4 +27,4 @@ Adrien Gaidon
 License
 -------
 
-New BSD license
+MIT License
