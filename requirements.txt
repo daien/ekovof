@@ -1,0 +1,6 @@
+numpy
+scipy
+numexpr
+sklearn
+pprocess
+ProgressBar
